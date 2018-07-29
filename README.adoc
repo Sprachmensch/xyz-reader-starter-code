@@ -1,3 +1,15 @@
-= XYZ Reader Starter Code
+![Screenshot](reader_preview.png)
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+## Project Overview
+In this project, you will complete the **Sandwich Club** app to
+show the details of each sandwich once it is selected.
+
+## What i did
+- Fixed the designed
+-- Colors
+-- Cards
+-- Image
+
+- Changend the setText in ArticleDetailFragment line #244
