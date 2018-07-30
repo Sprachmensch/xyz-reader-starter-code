@@ -7,8 +7,8 @@ The fixed **XYZ Reader** app.
 
 ## What i did
 - Fixed the designed
--- Colors
--- Cards
--- Image
+  - Colors
+   - Cards
+   - Image
 
-- Changend the setText in ArticleDetailFragment line #244
+- Changed the setText in ArticleDetailFragment line #244
